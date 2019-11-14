@@ -1,0 +1,21 @@
+{
+	"name": "glee-episode-generator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@freddieridell/regex-generator-expander": "0.0.1"
+	},
+	"prettier": {
+		"singleQuote": false,
+		"tabWidth": 4,
+		"useTabs": true,
+		"trailingComma": "all",
+		"printWidth": 120
+	}
+}
