@@ -107,6 +107,11 @@ const generator = rge({
 		"un-informed",
 		"upbeat",
 		"woefully misguided",
+		"completely original",
+		"awe-inspiring",
+		"once in a lifetime",
+		"high-energy",
+		"guilt-ridden",
 		rge`${genre}`,
 	],
 
